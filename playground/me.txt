@@ -1,5 +1,0 @@
-{{#user}}
-Name: Sushant Onkar
-Skills: HTML, CSS, JS, React, Node.js, MongoDB, Express, 
-Email: onkarsushant05@gmail.com
-{{/user}}
